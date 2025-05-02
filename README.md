@@ -1,4 +1,4 @@
-# NeuroNexus
+# Titanic survival prediction
 This project predicts whether a passenger survived the Titanic disaster using machine learning. The dataset used contains details like age, gender, class, and more to train a classification model. The model is built using Python, pandas, and scikit-learn.
 
 📂 Dataset
